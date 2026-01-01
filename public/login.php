@@ -100,7 +100,7 @@
    
     
     <h2>เข้าสู่ระบบ</h2>
-    <form action="chk.php" method="post">
+    <form action="actions/chk.php" method="post">
       <div>
         <label for="username">Username</label>
         <input type="text" name="username" id="username" required>
